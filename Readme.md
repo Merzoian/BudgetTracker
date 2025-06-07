@@ -23,10 +23,15 @@ This is a simple console-based personal budget tracker built with Java. The prog
 ## 📂 Project Structure
 
 BudgetTracker/
+
 ├── Main.java # User interaction and menu system
+
 ├── Transaction.java # Data class for each income/expense
+
 ├── BudgetManager.java # Business logic for tracking and summaries
+
 ├── DataHandler.java # File I/O for saving/loading transactions
+
 ├── budget_data.txt # Auto-created data file for persistence
 
 
