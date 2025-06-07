@@ -53,8 +53,8 @@ BudgetTracker/
 ## 🎥 Demo Video
 
 Watch a walkthrough of the project and its features on YouTube:  
-👉 [https://youtu.be/YOUR_VIDEO_LINK](https://youtu.be/YOUR_VIDEO_LINK)  
-*(Replace with your actual video link)*
+👉 [[https://youtu.be/YOUR_VIDEO_LINK](https://youtu.be/khvMrW_E3RA)]
+
 
 ---
 
